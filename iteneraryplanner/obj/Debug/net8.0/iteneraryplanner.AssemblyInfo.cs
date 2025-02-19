@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iteneraryplanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef5a3c7689a6b9563c1c22aaa14c91d4c696a6a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("iteneraryplanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iteneraryplanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

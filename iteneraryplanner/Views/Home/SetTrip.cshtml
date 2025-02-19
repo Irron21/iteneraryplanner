@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Itinerary Planner</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <script defer src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body class="bg-light">
+    <div class="container mt-5">
+        <h2 class="mb-4 text-center">Plan Your Trip</h2>
+
+        <form id="tripForm">
+            <div class="mb-3">
+                <label for="trip_name" class="form-label">Trip Name</label>
+                <input type="text" class="form-control" id="trip_name" required>
+            </div>
+            <div class="mb-3">
+                <label for="trip_country" class="form-label">Country</label>
+                <select class="form-control" id="trip_country" required></select>
+            </div>
+
+            <div class="mb-3">
+                <label for="trip_start" class="form-label">Start Date</label>
+                <input type="date" class="form-control" id="trip_start" required>
+            </div>
+            <div class="mb-3">
+                <label for="trip_end" class="form-label">End Date</label>
+                <input type="date" class="form-control" id="trip_end" required>
+            </div>
+
+            <h4>Destinations</h4>
+            <div id="destinations">
+                <!--Destinations here-->
+            </div>
+            <button type="button" id="addDestinationBtn" class="btn btn-primary my-3" onclick="addDestination()">
+                Add Destination
+            </button>
+            <button type="submit" class="btn btn-success">Save Trip</button>
+        </form>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
+
