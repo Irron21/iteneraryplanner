@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irron\\source\\repos\\iteneraryplanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A133CDB-5ADD-48A7-8944-A28E27BDB576}|iteneraryplanner\\iteneraryplanner.csproj|c:\\users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6A133CDB-5ADD-48A7-8944-A28E27BDB576}|iteneraryplanner\\iteneraryplanner.csproj|solutionrelative:iteneraryplanner\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A133CDB-5ADD-48A7-8944-A28E27BDB576}|iteneraryplanner\\iteneraryplanner.csproj|c:\\users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A133CDB-5ADD-48A7-8944-A28E27BDB576}|iteneraryplanner\\iteneraryplanner.csproj|solutionrelative:iteneraryplanner\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A133CDB-5ADD-48A7-8944-A28E27BDB576}|iteneraryplanner\\iteneraryplanner.csproj|c:\\users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A133CDB-5ADD-48A7-8944-A28E27BDB576}|iteneraryplanner\\iteneraryplanner.csproj|solutionrelative:iteneraryplanner\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A133CDB-5ADD-48A7-8944-A28E27BDB576}|iteneraryplanner\\iteneraryplanner.csproj|c:\\users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\models\\mydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A133CDB-5ADD-48A7-8944-A28E27BDB576}|iteneraryplanner\\iteneraryplanner.csproj|solutionrelative:iteneraryplanner\\models\\mydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A133CDB-5ADD-48A7-8944-A28E27BDB576}|iteneraryplanner\\iteneraryplanner.csproj|c:\\users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A133CDB-5ADD-48A7-8944-A28E27BDB576}|iteneraryplanner\\iteneraryplanner.csproj|solutionrelative:iteneraryplanner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "iteneraryplanner\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "iteneraryplanner\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:15:43.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "iteneraryplanner\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "iteneraryplanner\\wwwroot\\css\\site.css*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-19T01:08:49.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "iteneraryplanner\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "iteneraryplanner\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T01:04:47.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyData.cs",
+              "DocumentMoniker": "C:\\Users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\Models\\MyData.cs",
+              "RelativeDocumentMoniker": "iteneraryplanner\\Models\\MyData.cs",
+              "ToolTip": "C:\\Users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\Models\\MyData.cs",
+              "RelativeToolTip": "iteneraryplanner\\Models\\MyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:59:40.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\appsettings.json",
+              "RelativeDocumentMoniker": "iteneraryplanner\\appsettings.json",
+              "ToolTip": "C:\\Users\\irron\\source\\repos\\iteneraryplanner\\iteneraryplanner\\appsettings.json",
+              "RelativeToolTip": "iteneraryplanner\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T00:48:18.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
